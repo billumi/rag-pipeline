@@ -1,6 +1,6 @@
 # Simple RAG Pipeline
 
-This project is a weekend project for building a Retrieval Augmented Generation (RAG) system. It demonstrates how to index documents, retrieve relevant content, generate AI-powered responses, and evaluate results—all through a command line interface (CLI).
+A weekend project for building a Retrieval Augmented Generation (RAG) system. It demonstrates how to index documents, retrieve relevant content, generate AI-powered responses, and evaluate results—all through a command line interface (CLI).
 
 ![rag-image](./rag-design-basic.png)
 
