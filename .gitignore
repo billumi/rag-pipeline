@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Byte-compiled / optimized / test files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Editor/OS temporary files
+.DS_Store
+
+# Temporary / Backup files
+*~
+ 
+# For PyCharm or IntelliJ projects
+.idea/
+
+# Visual Studio Code
+# Comment out if you need to share workspace settings (e.g., extensions.json)
+.vscode/
+
+# Operating System
+.DS_Store # macOS generated files
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+
